@@ -1,61 +1,36 @@
-# 🎨 AI Prompt Portfolio App
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-AI支援のためのプロンプト（指示文）とその生成結果（画像・テキスト）を一括で管理できる、SaaS風ポートフォリオアプリです。  
-**Next.js App Router + Supabase + Tailwind CSS** を用いてフルスタック構築しました。
+## Getting Started
 
-## 📦 主な技術スタック
+First, run the development server:
 
-| 技術       | 内容                                     |
-|------------|------------------------------------------|
-| Next.js    | App Router (14+), SSR/CSR 混在対応       |
-| TypeScript | 厳密な型定義で安全性・保守性を強化       |
-| Supabase   | Auth / Database / Storage / RLS すべて活用 |
-| Tailwind CSS | スマホ対応 / クリーンなUI設計        |
-| Vercel     | 無料デプロイ環境（CI/CD自動化）
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
----
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## ✅ 主な機能一覧
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-| 機能カテゴリ       | 内容                                                                 |
-|--------------------|----------------------------------------------------------------------|
-| 🔐 認証機能         | サインアップ / ログイン / ログアウト / パスリセット対応（Supabase Auth）     |
-| 📋 プロンプト管理    | 作成 / 編集 / 削除 / 詳細表示 / タグ付け（Supabase Database + App Router）|
-| 🏷 タグ機能         | タグ作成 / 削除 / 一覧表示 / フィルター検索付きタグクラウド                    |
-| 🖼 結果管理         | プロンプトごとの結果保存（画像 or テキスト） / Storage連携 / 画像削除対応     |
-| 🔗 共有URL生成      | 公開ページ用署名付きURL生成 / サービスロールキー読込 / 非公開Storage対応      |
-| 👤 ユーザー分離      | Supabase RLS（Row Level Security）で**自分のデータだけを閲覧・操作可能**         |
-| 🧪 開発者向け        | 型安全 / コメント整理済 / ディレクトリ構造を意識した拡張性の高い設計
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
----
+## Learn More
 
-## 🗂️ ディレクトリ構成
-my-ai-portfolio-app/
-├── app/
-│ ├── login/ # ログインページ
-│ ├── signup/ # サインアップ
-│ ├── dashboard/ # ダッシュボード（タグフィルタ・検索対応）
-│ ├── prompt/[id]/ # 詳細ページ + 結果表示
-│ └── share/[id]/ # 公開用URLページ（読み取り専用）
-├── components/ # UI・保護レイアウト・ナビゲーションバー
-├── lib/ # Supabaseクライアント・共通処理
-├── styles/ # TailwindグローバルCSS
-├── .env.local # Supabase URL / anon キー
-└── README.md
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 🚀 セットアップ手順
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-### 1. 必要環境
-- Node.js 18+
-- npm または yarn
-- Supabase アカウント（[https://supabase.com](https://supabase.com)）
+## Deploy on Vercel
 
-### 2. `.env.local` を作成
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-```env
-NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=xxxxxxxxxxxxxxxxx
-SUPABASE_SERVICE_ROLE_KEY=xxxxxxxxxxxxxxxxx
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
