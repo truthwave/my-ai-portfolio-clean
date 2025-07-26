@@ -1,3 +1,7 @@
+<p>
+<img width="1536" height="1024" alt="段落テキスト (3)" src="https://github.com/user-attachments/assets/d16a4aea-4395-4808-b6f2-097b4321ce0a" />
+</p>
+
 # AIプロンプト管理アプリ
 
 このアプリは、[Next.js](https://nextjs.org) と [Supabase](https://supabase.com) を使って構築した、AIプロンプトの管理・共有用Webアプリです。  
