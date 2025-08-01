@@ -128,6 +128,8 @@
 - TypeScript
 
 ---
+## ダッシュボードのスクリーンショット
+<img width="943" height="1013" alt="ダッシュボード画面" src="https://github.com/user-attachments/assets/2b357ac1-cdfb-4b78-945b-6c51bd2acbe3" />
 
 ---
 
