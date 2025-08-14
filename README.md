@@ -1,6 +1,5 @@
-<p>
+<p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/e7c25410-8485-4745-ac6a-0d787ac0aaf6" />
-
 </p>
 
 # 🧠 プロンプトポートフォリオ
@@ -130,6 +129,9 @@ npm run dev
 
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 AIツールやポートフォリオ開発に関する情報も発信中。
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 
