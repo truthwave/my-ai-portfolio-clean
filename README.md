@@ -134,7 +134,7 @@ npm run dev
 
 ## 🧑‍💻 作者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+[True Wave― 真理の波](https://github.com/TomoAIDayori)
 AIツールやポートフォリオ開発に関する情報も発信中。
 
 ## お気軽にご連絡ください
