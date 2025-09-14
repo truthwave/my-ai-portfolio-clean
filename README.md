@@ -9,12 +9,7 @@
 
 ---
 ## プロジェクト概要
-![スライド2](https://github.com/TomoProgrammingDayori/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
-![スライド3](https://github.com/TomoProgrammingDayori/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
-![スライド4](https://github.com/TomoProgrammingDayori/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
-![スライド5](https://github.com/TomoProgrammingDayori/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%895.PNG)
-![スライド6](https://github.com/TomoProgrammingDayori/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%896.PNG)
-![スライド7](https://github.com/TomoProgrammingDayori/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%897.PNG)
+[スライド資料はこちら](https://github.com/truthwave/my-ai-portfolio-clean/tree/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
 ## 💡 このアプリでできること
 
