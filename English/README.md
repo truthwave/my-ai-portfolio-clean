@@ -113,5 +113,3 @@ UI --- ### ✅ 5.
 - Data management apps
 - Image upload / storage utilization apps
 - Authentication/authorization required
-
-Translated with DeepL.com (free version)
