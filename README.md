@@ -1,9 +1,6 @@
 <p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/e7c25410-8485-4745-ac6a-0d787ac0aaf6" />
 </p>
-<img width="1280" height="800" alt="バフェットビフォー" src="https://github.com/user-attachments/assets/c7bb6e3d-e613-4a1b-ac0e-8eb5ee85cbe3" />
-<img width="1280" height="800" alt="メールビフォー" src="https://github.com/user-attachments/assets/8e74e0c0-a4d4-43ab-ba17-cb551194a6a0" />
-<img width="1280" height="800" alt="メールアフター" src="https://github.com/user-attachments/assets/bc09a422-3554-4717-bc63-24c0b5f69e5c" />
 
 # 🧠 プロンプトポートフォリオ
 
