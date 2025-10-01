@@ -1,6 +1,7 @@
 <p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/e7c25410-8485-4745-ac6a-0d787ac0aaf6" />
 </p>
+<img width="1280" height="800" alt="バフェットアフター" src="https://github.com/user-attachments/assets/21a53da5-ded1-49e0-97e2-bc804936104a" />
 
 # 🧠 プロンプトポートフォリオ
 
