@@ -1,115 +1,100 @@
-# AI Prompt Management App
+# 🧠 Prompt Portfolio
 
-This app is a web app for managing and sharing AI prompts, built using [Next.js](https://nextjs.org) and [Supabase](https://supabase.com).  
-It aims to make it easier for users to organize, store, and share their prompts and their results.
+> Preserve the “trace of your thoughts” in tangible form.
+> Simple and scalable. Supabase × Next.js.
 
 ---
 
-## 🚀 Feature List.
+## Why Build It
 
-### 🔐 Authentication Function
+Prompts aren't disposable.
+They're a history of creation. They're assets.
 
-- User registration and login
-- Password reset
-- Logout
-- User data separation by Row Level Security (RLS) using Supabase Auth.
+This app is a portfolio for turning your thoughts into assets.
+Discard complexity, keep only what matters.
 
---- 📋 Auth.
+---
 
-### 📋 Prompt Management
+## Experience
 
-- Create, edit, and delete prompts
-- Display of prompt detail page
-- Dashboard display of prompt list.
+- Centralized prompt management
+- Save outputs (text / images) linked to prompts
+- Intuitive tag-based categorization
+- One-click shareable URL generation
+That's it. But it's enough.
 
---- ###
+---
 
-### 🏷 Tag Management
+## 🖼 Screenshot
+![Dashboard Screen](https://github.com/user-attachments/assets/2b357ac1-cdfb-4b78-945b-6c51bd2acbe3)
 
-- Create and delete tags
-- Multiple tagging of prompts (many-to-many support with intermediate tables)
-- Filtering prompts by tags
-- Tag Cloud Display.
+Tag-based classification and output image previews all on one screen.
 
---- 🏷 🏷 Tag Management
+---
 
-### 🖼 Result Management
+## How to Use (Up and Running in 3 Minutes)
 
-- Save text results
-- Image Upload (using Supabase Storage)
-- Delete results
-- View result detail page.
+### Prerequisites
 
---- 🔎 UI functions
+* Node.js and npm must be installed
 
-### 🔎 UI Functions
+### Steps
 
-- Tag refinement search on dashboard
-- Prompt keyword search (optional)
+1. Create a Supabase project
+2. Set the following in `.env.local`:
 
---- --- 🔗 🔗 Share function
+```bash
+NEXT_PUBLIC_SUPABASE_URL=your-url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+```
 
-### 🔗 Sharing Features
+3. Install dependencies:
 
-- Public URL generation for sharing prompt results
-- Supabase signed URL support (also available for private storage operations).
+```bash
+npm install
+```
 
---- ### 🔗 🔗 Other
+4. Start the development server:
 
-### ⚙️ Others
+```bash
+npm run dev
+```
 
-- Dynamic routing using Next.js App Router
-- Authenticated page protection by Protected Layout
-- Responsive support by Tailwind CSS
+---
 
---- ## 💡 Other
+## Inside
 
-## 💡 Points to consider
+- Stack: Next.js (App Router) / Supabase (Auth, DB, Storage, RLS) / Tailwind CSS
+- Models: prompts ↔ tags (many-to-many), prompt → results (1:N)
+- Security: User-specific data isolation via RLS, flexible publishing with signed URLs
+Beautiful structure exists within the code.
 
-### Full-scale configuration utilizing Supabase
+---
 
-- Consistent use of Supabase's Auth, Database (PostgreSQL), Storage, and RLS
-- Data isolation per user by RLS
-- Flexible sharing functionality using service role keys and signed URLs
+## Capabilities (Minimal Yet Sufficient)
+- Create/Edit/Delete / Detail View / Dashboard List
+- Create Tags / Assign Multiple Tags / Filter Search
+- Save Output Text / Upload Images (Supabase Storage)
+- Share Securely via Public URL / Signed URL
 
----Service Role Keys and Signed URLs for flexible sharing
+---
 
-### ✅ 2. Utilize Next.js App Router
+## License
 
-- Development with app directory structure
-- Dynamic routing (e.g. /prompt/[id])
-- Appropriate use of client and server components
-- Authentication control by Protected Layout
+MIT License
 
----Authentication control by Protected Layout
+---
 
-### ✅ 3. Relation Design
+## 🧑‍💻 Creator
 
-- Implement many-to-many of prompts and tags in intermediate table (prompt_tags)
-- Implement 1:N relationship of prompt → result
-- Implement JOIN equivalent processing in Supabase query.
+[True Wave](https://github.com/truthwave)
+Also sharing info on AI tools and portfolio development.
 
----.......................
+## Feel Free to Contact Us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
 
-### ✅ 4. Attention to UI/UX
+---
 
-- Beautiful UI using Tailwind CSS
-- Smartphone support (responsive)
-- Easy-to-use UI with tag filtering and other practical features
+> Design is a battle of how much you can strip away.
 
----Tailwind's UI
-
-### Free frame operation
-
-- Free frame of Vercel can be used.
-- Low cost operation by combining with Supabase's free frame.
-
-UI --- ### ✅ 5.
-
-## 🎯 Areas where you can make the most of
-
-- SaaS application development
-- Management screen for multi-users
-- Data management apps
-- Image upload / storage utilization apps
-- Authentication/authorization required
+Make “Prompt Portfolio” the new standard for prompt management.
