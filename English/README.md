@@ -3,6 +3,10 @@
 > Preserve the “trace of your thoughts” in tangible form.
 > Simple and scalable. Supabase × Next.js.
 
+<p align="center">
+<img width="1536" height="1024" alt="プロンプトポートフォリオ" src="https://github.com/user-attachments/assets/dc3fadfb-3491-4818-b44c-5abbe23978f9" />
+</p>
+
 ---
 
 ## Why Build It
