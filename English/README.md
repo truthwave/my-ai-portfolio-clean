@@ -4,7 +4,7 @@
 > Simple and scalable. Supabase × Next.js.
 
 <p align="center">
-<img width="1536" height="1024" alt="プロンプトポートフォリオ" src="https://github.com/user-attachments/assets/dc3fadfb-3491-4818-b44c-5abbe23978f9" />
+<img width="1536" height="1024" alt="プロンプト (1)" src="https://github.com/user-attachments/assets/5bd04e24-62f2-4c9d-a2c9-73aacab70dac" />
 </p>
 
 ---
