@@ -4,7 +4,7 @@
 > シンプルで拡張可能。Supabase × Next.js。
 
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/e7c25410-8485-4745-ac6a-0d787ac0aaf6" />
+<img width="1536" height="1024" alt="プロンプト" src="https://github.com/user-attachments/assets/6049f93b-d61d-4a2c-bc41-3dcbe9473eeb" />
 </p>
 
 
