@@ -1,3 +1,5 @@
+### [English](https://github.com/truthwave/my-ai-portfolio-clean/tree/main/English)
+
 # 🧠 プロンプトポートフォリオ
 
 > あなたの“思考の軌跡”を、形に残す。
