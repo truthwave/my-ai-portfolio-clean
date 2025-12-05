@@ -1,4 +1,4 @@
-### [English](https://github.com/truthwave/my-ai-portfolio-clean/tree/main/English)
+### [👉English](https://github.com/truthwave/my-ai-portfolio-clean/tree/main/English)
 
 # 🧠 プロンプトポートフォリオ
 
