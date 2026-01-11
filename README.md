@@ -86,11 +86,6 @@ npm run dev
 
 ---
 
-## ドキュメント
-#### [スライド](https://github.com/truthwave/my-ai-portfolio-clean/blob/main/%E8%B3%87%E6%96%99/AI%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
-
----
-
 ## ライセンス
 
 MIT License
