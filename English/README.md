@@ -83,11 +83,6 @@ Beautiful structure exists within the code.
 
 ---
 
-## Documents
-#### [Slides](https://github.com/truthwave/my-ai-portfolio-clean/blob/main/English/Materials/Prompt%20Portfolio.pdf)
-
----
-
 ## License
 
 MIT License
